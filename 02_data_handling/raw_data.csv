@@ -1,0 +1,4 @@
+id,name,email,location,is_active
+201,Amit,amit@gamil.com,Delhi,True
+202,Ravi,ravi@gamil.com,Jaipur,True
+203,Tushar,tushar@gamil.com,Mumbai,True
